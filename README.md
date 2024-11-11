@@ -1,2 +1,2 @@
 # Scripts
-Useful little scripts
+Useful scripts
